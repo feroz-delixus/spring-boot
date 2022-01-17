@@ -1,4 +1,4 @@
 services:
-  -type: web
-   env: docker
-   healthCheckPath: /
+- type: web
+  name: spring
+  env: docker
