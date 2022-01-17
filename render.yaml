@@ -1,5 +1,5 @@
 services:
   -type: web
-   name: spring-boot
+   name: spring
    env: docker
    healthCheckPath: /
