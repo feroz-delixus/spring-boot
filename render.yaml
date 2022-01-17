@@ -1,5 +1,4 @@
 services:
   -type: web
-   name: spring
    env: docker
    healthCheckPath: /
