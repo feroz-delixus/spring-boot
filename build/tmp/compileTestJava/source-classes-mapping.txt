@@ -1,0 +1,2 @@
+com/example/bootdocker/demo/BootdockerApplicationTests.java
+ com.example.bootdocker.demo.BootdockerApplicationTests
